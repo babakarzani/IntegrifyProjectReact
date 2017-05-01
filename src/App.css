@@ -1,0 +1,217 @@
+header {
+    font-family: sans-serif;
+    color: red;
+    background: url("Integrify.png");
+    background-repeat: no-repeat;
+    background-position: 32px 32px;
+    height: 96px;
+    width: 976px;
+    background-size: 32px 32px;
+    background-color: #909090;
+    margin: 0 auto;
+    margin-top: 0;
+}
+.onvan {
+    color: white;
+    position: relative;
+    left: 70px;
+    top: 32px;
+    font-size: 32px;
+    font-weight: 200;
+    
+}
+.class2 {
+    width: 976px;
+    margin: 0 auto;
+    background-color: #eaeaea;
+    
+}
+
+.explainer {
+    color: #757575;
+    font-family: sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    position: relative;
+    left: 32px;
+    top: 64px;
+    height: 118px;
+    margin-top: 0;
+}
+
+.Main_div {
+    margin-top: 0;
+    position: relative;
+    top: -23px;
+}
+
+.temp_em_input {
+            font-size: 16px;
+            line-height: 40px;
+            font-weight: 400;
+            position: relative;
+            left: -3px;
+            width: 250px;
+        }
+        .temp_input
+        {
+            font-size: 16px;
+            line-height: 40px;
+            font-weight: 400;
+            position: relative;
+            left: -4px;
+            width: 135px;
+        }
+
+        .Div_Table {width: 976px;
+            background-color: #eaeaea;
+            margin: 0 auto;
+            margin-top: 16px;
+            
+            
+        }
+        table {
+            table-layout: fixed;
+            background-color: white;
+            position: relative;
+            left: 32px;
+            width: 912px;
+            margin: 0;
+            font-family: sans-serif;
+            border-collapse: collapse;
+        }
+        
+        tr {
+            height: 72px;
+             border-top: 2px solid #eaeaea;
+            color: #505050;
+            font-size: 16px;
+            line-height: 24px;
+            font-weight: 400;
+            
+        }
+        td {
+            position: relative;
+            left: 24px;
+            
+        }
+        .Table_head {
+            height: 48px;
+            color: #757575;
+            font-size: 14px;
+            line-height: 16px;
+            font-weight: 500;
+            border-top: 0px;
+            text-align: left;
+            position: relative;
+             }
+         th {
+         position: relative;
+            left: 24px;
+            
+        }
+        tr:hover {background-color: #f5f5f5}
+       
+        
+        .invisible_column {
+            opacity: 0;
+        }
+        
+        .Edit_img {
+            height: 24px;
+            width: 24px;
+            position: relative;
+            left: 60px;
+        }
+        .Edit_img:hover {cursor: pointer;}
+        
+        .Delete_img {
+            height: 24px;
+            width: 24px;
+            position: relative;
+            left: 110px;
+        }
+        .Delete_img:hover {cursor: pointer;}
+        .layer2 {
+            background-color: white;
+            width: 912px;
+            height: 76px;
+            margin: 0 auto;
+            }
+        #Name_input {
+            height: 40px;
+            width: 140px;
+            position: relative;
+            top: 16px;
+            left: 16px;
+            font-size: 20px;
+
+        }
+        #email_input {
+            height: 40px;
+            width: 300px;
+            position: relative;
+            top: 16px;
+            left: 32px;
+            font-size: 20px;
+        }
+        #number_input {
+            height: 40px;
+            width: 140px;
+            position: relative;
+            top: 16px;
+            left: 48px;
+            font-size: 20px;
+        }
+        ::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+            color: #eaeaea;
+            font-family: sans-serif;
+            font-size: 18px;
+            font-weight: 200;
+            
+        }
+        .Add_Button {
+            height: 46px;
+            width: 100px;
+            font-size: 20px;
+            position: relative;
+            top: 16px;
+            left: 200px;
+            background-color: #eaeaea;
+            border: none;
+            color: #909090;
+            
+        }
+        .Add_Button:hover {cursor: pointer;}
+        .save_btn {
+            height: 40px;
+            font-size: 16px;
+            background-color: #07f;
+            border: none;
+            color: #ffffff;
+            font-weight: 500;
+            display: none;
+            position: relative;
+            left: -40px;
+            top:-10px;
+            width: 80px;
+            text-align: center;
+        }
+        .save_btn:hover {cursor: pointer;}
+        .cancel_btn {
+            height: 40px;
+            font-size: 16px;
+            background-color: #eaeaea;
+            border: none;
+            color: #07f;
+            font-weight: 500;
+            display: none;
+            position: relative;
+            left: 50px;
+            top:10px;
+            width: 80px;
+            
+        }
+        th:hover {
+            cursor: s-resize;
+        }
